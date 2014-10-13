@@ -10,3 +10,7 @@ Right now this isn't an official extension so you'll need to open chrome extensi
 1. Check 'Developer mode'
 
 2. Click load unpacked extension and select the folder with the manifest file in it
+
+
+
+![deal with it](http://www.bite.ca/wp-content/uploads/2013/03/deal-with-it19.gif)
