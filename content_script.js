@@ -1,6 +1,6 @@
 var regex_sjw = /\bsjw\b/gi // i flag makes it case insensitive
 var regex_spelled_out = /\bsocial justice warrior\b/gi
-var roles = Array("Paladin", "Mage", "Rogue", "Thief", "Assassin", "Warlock", "Wizard", "Ranger", "Cleric", "Priest", "Knight");
+var roles = Array("Paladin", "Mage", "Rogue", "Thief", "Assassin", "Warlock", "Wizard", "Ranger", "Cleric", "Priest", "Knight", "Druid", "Necromancer");
 walk(document.body);
 
 
