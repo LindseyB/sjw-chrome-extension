@@ -1,0 +1,15 @@
+{
+	"manifest_version": 2,
+	"name": "SJW",
+	"version": "1.0",
+	"description": "Replaces text 'SJW' with 'PB&J'.",
+	"content_scripts":
+	[
+		{
+			"matches": ["*://*/*"],
+			"js": ["content_script.js"],
+			"run_at": "document_end"
+		}
+	]
+}
+
